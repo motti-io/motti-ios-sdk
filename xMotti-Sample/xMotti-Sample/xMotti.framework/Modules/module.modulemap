@@ -1,0 +1,11 @@
+framework module xMotti {
+  umbrella header "xMotti.h"
+
+  export *
+  module * { export * }
+}
+
+module xMotti.Swift {
+    header "xMotti-Swift.h"
+    requires objc
+}
