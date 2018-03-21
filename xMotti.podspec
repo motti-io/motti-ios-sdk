@@ -5,23 +5,24 @@ Pod::Spec.new do |s|
   s.version      	= "0.0.1"
   s.summary      	= "xMotti SDK for iOS."
   s.description  	= <<-DESC
-  					  xMotti SDK for iOS."
+  					  iOS SDK for the xMotti platform.
   				      DESC
 
   s.homepage     	= "https://x.motti.io/"
-  s.license      	= "MIT (example)"
+  s.license      	= { :type => 'Apache 2.0', :file => 'LICENSE' }
+  s.author          = { "Motti" => "miguel@motti.com" }
 
   s.platform     	= :ios, "10.0"
   s.source       	= { :git => "https://github.com/motti-io/motti-ios-sdk.git", :tag => "#{s.version}" }
 
-  s.source_files  	= "xMotti.framework/*"
+  s.source_files  = "xMotti-Sample/xMotti-Sample/xMotti.framework/Headers/*.h"
   # s.exclude_files = "Classes/Exclude"
-  
-  # s.resource  	= "icon.png"
-  # s.resources 	= "Resources/*.png"
+  s.vendored_frameworks = "xMotti-Sample/xMotti-Sample/xMotti.framework"
+  s.public_header_files = 'xMotti-Sample/xMotti-Sample/xMotti.framework/Headers/*.h'
+  # s.resources 	= "xMotti-Sample/xMotti-Sample/xMotti.framework/database.xMotti.sqlite"
 
   s.requires_arc 	= true
   s.frameworks  	= "CoreLocation"
-  s.libraries   	= "libsqlite3"
+  s.libraries   	= "sqlite3"
 
 end
