@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name        	= "xMotti"
-  s.version      	= "0.0.2"
+  s.version      	= "0.0.3"
   s.summary      	= "xMotti SDK for iOS."
   s.description  	= <<-DESC
   					  iOS SDK for the xMotti platform.
