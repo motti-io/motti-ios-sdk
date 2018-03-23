@@ -14,6 +14,7 @@
 		7A643CFD2061E3C700AC119C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A643CFB2061E3C700AC119C /* LaunchScreen.storyboard */; };
 		7A643D062061E49200AC119C /* xMotti.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A643D042061E48E00AC119C /* xMotti.framework */; };
 		7A643D072061E49200AC119C /* xMotti.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 7A643D042061E48E00AC119C /* xMotti.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		7A643D3A20622C2D00AC119C /* logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A643D3920622C2D00AC119C /* logo@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		7A643CFC2061E3C700AC119C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A643CFE2061E3C700AC119C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A643D042061E48E00AC119C /* xMotti.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = xMotti.framework; sourceTree = "<group>"; };
+		7A643D3920622C2D00AC119C /* logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 		7A643CF12061E3C700AC119C /* xMotti-Sample */ = {
 			isa = PBXGroup;
 			children = (
+				7A643D3820622C2D00AC119C /* Images */,
 				7A643D042061E48E00AC119C /* xMotti.framework */,
 				7A643CF22061E3C700AC119C /* AppDelegate.swift */,
 				7A643CF42061E3C700AC119C /* ViewController.swift */,
@@ -81,6 +84,14 @@
 				7A643CFE2061E3C700AC119C /* Info.plist */,
 			);
 			path = "xMotti-Sample";
+			sourceTree = "<group>";
+		};
+		7A643D3820622C2D00AC119C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				7A643D3920622C2D00AC119C /* logo@2x.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -144,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A643CFD2061E3C700AC119C /* LaunchScreen.storyboard in Resources */,
+				7A643D3A20622C2D00AC119C /* logo@2x.png in Resources */,
 				7A643CFA2061E3C700AC119C /* Assets.xcassets in Resources */,
 				7A643CF82061E3C700AC119C /* Main.storyboard in Resources */,
 			);

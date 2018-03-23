@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  xMotti-Sample
 //
-//  Created by Daniel Fernández on 3/20/18.
-//  Copyright © 2018 Daniel Fernández. All rights reserved.
+//  Created by xMotti on 3/20/18.
+//  Copyright © 2018 xMotti. All rights reserved.
 //
 
 import UIKit
