@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name        	= "xMotti"
-  s.version      	= "0.0.3"
+  s.version      	= "0.0.8"
   s.summary      	= "xMotti SDK for iOS."
   s.description  	= <<-DESC
   					  iOS SDK for the xMotti platform.
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.public_header_files = 'xMotti-Sample/xMotti-Sample/xMotti.framework/Headers/*.h'
 
   s.requires_arc 	= true
-  s.frameworks  	= "CoreLocation"
+  s.frameworks  	= "CoreLocation", "CoreBluetooth"
   s.libraries   	= "sqlite3"
 
 end
