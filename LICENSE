@@ -1,202 +1,35 @@
+CONTRATO DE LICENCIAMIENTO DE SOFTWARE, QUE CELEBRAN POR UNA PARTE MOTTI MOBILE MÉXICO, S.A. DE C.V. Y MOTTI MOBILE ESPAÑA, SL (EN CONJUNTO “MOTTI”) Y POR LA OTRA, USTED (EL “CLIENTE”, Y EN CONJUNTO CON MOTTI, LAS “PARTES”), AL TENOR DE LOS SIGUIENTES ANTECEDENTES, DECLARACIONES Y CLÁUSULAS (EL “CONTRATO”):
 
-                              Apache License
-                        Version 2.0, January 2004
-                     http://www.apache.org/licenses/
+CLÁUSULAS
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+PRIMERA. Vigencia. El Software Licenciado (“SDK”) definido en este Contrato tendrá una vigencia indefinida y permanecerá vigente posterior a la suspensión del uso por parte del Cliente.
 
-1. Definitions.
+SEGUNDA. Derechos de Propiedad. El Cliente reconoce que (i) el Software Licenciado y todas sus mejoras son propiedad de Motti, (ii) todos los derechos de propiedad quedan reservados y se mantendrán como posesión única y exclusiva de Motti; (iii) ningún derecho de propiedad está siendo adquirido, otorgado o transferido por virtud de la celebración del Contrato; y, (iv) todos los derechos de propiedad intelectual que se deriven del Contrato, serán propiedad, única y exclusiva de Motti, quien tendrá todos los derechos respectivos con los que podrá comercializar, reproducir, vender y de cualquier otra modalidad utilizar, conforme a la legislación que resulte aplicable.
+El reconoce que el SDK es propiedad de Motti y le corresponden sus derechos de autor por, que la licencia no le confiere ningún título ni propiedad sobre el SDK y ni sobre la venta de los derechos sobre el mismo. Ninguna disposición de este Contrato debe ser interpretada como una expresión de ceder o vender los derechos de autor o cualquier otro derecho de propiedad intelectual del SDK de Motti hacia usted.
+Con el fin de proteger los derechos de propiedad intelectual de Motti en relación al Software Licenciado, Usted no podrá eliminar ningún aviso de propiedad dentro del SDK y deberá reproducir en cada copia de la licencia de su producto de un aviso de copyright que exprese inequívocamente: 
+" Derechos de Autor 2018 Motti Mobile Mexico, SA de CV. Todos los derechos reservados." 
+Usted por este medio acepta y se obliga a distribuir su producto en virtud de un acuerdo válido que sea al menos tan protector de los derechos de Motti en el SDK como este Contrato de Licenciamiento de Software.
 
-   "License" shall mean the terms and conditions for use, reproduction,
-   and distribution as defined by Sections 1 through 9 of this document.
+TERCERA. Información Confidencial. En virtud del presente Contrato, el Cliente podrá tener acceso a información confidencial o secretos industriales de Motti (la “Información Confidencial”). La Información Confidencial comprende al Software Licenciado así como los materiales que le acompañen.
+La celebración de este Contrato en ningún caso se interpretará en el sentido de que cualquiera de las Partes confiere a la otra derecho alguno en materia de propiedad industrial o intelectual.
 
-   "Licensor" shall mean the copyright owner or entity authorized by
-   the copyright owner that is granting the License.
+CUARTA. Uso de licencia. Motti le concede una licencia personal, no exclusiva para utilizar el Software Licenciado para el propósito de diseñar, desarrollar, probar y distribuir los productos del Licenciatario. La instalación, la adaptación, la redistribución de cualquier otra manera que la fijada por el presente Acuerdo está prohibida y constituye el incumplimiento de las disposiciones de este Acuerdo.
+Usted podrá instalar el SDK en aplicaciones móviles, almacenar en disco duro u otro dispositivo de almacenamiento digital; instalar y utilizar el Software Licenciado en un servidor de archivos para su uso en aplicativos móviles así como hacer copias de seguridad del mismo.
+La redistribución del Software Licenciado es autorizada únicamente cuando se incorpore a sus productos de software proporcionados a usuarios finales. Usted no podrá incluir el SDK como parte de una herramienta de desarrollo o un kit de desarrollo de software. Sin embargo Usted acuerda a no arrendar o alquilar el Software Licenciado ningún tercero.
 
-   "Legal Entity" shall mean the union of the acting entity and all
-   other entities that control, are controlled by, or are under common
-   control with that entity. For the purposes of this definition,
-   "control" means (i) the power, direct or indirect, to cause the
-   direction or management of such entity, whether by contract or
-   otherwise, or (ii) ownership of fifty percent (50%) or more of the
-   outstanding shares, or (iii) beneficial ownership of such entity.
+QUINTA. Restricciones. La licencia no otorga ninguna autorización y queda expresamente prohibido realizar ingeniería inversa, descompilar o desensamblar el Software Licenciado. Debe prohibir a sus proveedores, clientes o usuarios finales realizar ingeniería inversa, descompilar o desensamblar cualquier parte del SDK. Si Usted se entera de cualquier mal uso del SDK, deberá notificarlo a Motti inmediatamente.
+La transferencia permanente o temporal de los derechos adquiridos por Usted mediante este Contrato está prohibida sin el consentimiento expreso y por escrito por parte del Licenciatario.
+Usted no puede exportar o reexportar el Software Licenciado sin la respectiva autorización, en caso de que la ley lo exija. Los territorios autorizados para uso del Software Licenciado son México y España.
 
-   "You" (or "Your") shall mean an individual or Legal Entity
-   exercising permissions granted by this License.
+SEXTA. Limitación de Responsabilidad. El Software Licenciado se proporciona "Tal Cual", y en ningún caso garantiza el rendimiento o resultados específicos. Motti declara de buena fe que no tiene conocimiento de fallas u otras deficiencias sobre el SDK. Sin embargo, si usted encuentra cualquier defecto en el Software Licenciado, la responsabilidad de Motti se limita a la sustitución del mismo, que se cumplirá dentro de un periodo de no más de 60 (sesenta) días desde el momento en el que se haya reportado el defecto.
+En ningún caso, el Licenciatario, los autores o los titulares de los derechos serán responsables antes cualquier reclamación, daños u otros, ya sea mediante una acción de responsabilidad contractual, extracontractual o de cualquier otro tipo en relación con el Software Licenciado o el uso que le ha dado el Cliente.
+Lo siguiente es sin perjuicio de los derechos que pueda tener en la ley, que no pueden ser legalmente excluidos o restringidos. Usted reconoce que ninguna promesa, representación, garantía o compromiso se ha hecho o dado por parte de Motti (o cualquiera de sus directores, funcionarios, empleados, afiliados o propietarios) a cualquier persona o empresa en su nombre respecto a la rentabilidad, consecuencias o ventajas que se puedan obtener a partir de la entrega o el uso del SDK u otros materiales. Usted ha confiado en su propia habilidad y juicio en la decisión de licenciar el SDK así como cualquier manual de acompañamiento y materiales para su uso. 
+En lo previsto en este Contrato, ni Motti ni ninguno de sus directores, funcionarios, empleados, afiliados o propietarios, serán en ningún caso responsables por daños de cualquier tipo (incluyendo, sin limitación, daños por pérdida de negocio, interrupción de negocio, pérdida de información comercial u otras pérdidas indirectas, incidentales, especiales o consecuentes) que surjan del uso o imposibilidad de uso, o el suministro o falta de suministro, del Software Licenciado y los materiales escritos que le acompañan, independientemente de la base de la reclamación e incluso si Motti, o un representante autorizado ha sido advertido de la posibilidad de tales daños. 
+Algunos estados o jurisdicciones no permiten la exclusión o limitación de daños incidentales, consecuentes o especiales, o la exclusión de garantías implícitas o limitaciones dentro de una garantía implícita, por lo que únicamente en estos casos las limitaciones anteriores podrían no aplicar según el caso.
+La responsabilidad total de Motti bajo cualquier disposición de este acuerdo es en todo caso limitada al importe abonado por usted para el uso del Software Licenciado.
 
-   "Source" form shall mean the preferred form for making modifications,
-   including but not limited to software source code, documentation
-   source, and configuration files.
-
-   "Object" form shall mean any form resulting from mechanical
-   transformation or translation of a Source form, including but
-   not limited to compiled object code, generated documentation,
-   and conversions to other media types.
-
-   "Work" shall mean the work of authorship, whether in Source or
-   Object form, made available under the License, as indicated by a
-   copyright notice that is included in or attached to the work
-   (an example is provided in the Appendix below).
-
-   "Derivative Works" shall mean any work, whether in Source or Object
-   form, that is based on (or derived from) the Work and for which the
-   editorial revisions, annotations, elaborations, or other modifications
-   represent, as a whole, an original work of authorship. For the purposes
-   of this License, Derivative Works shall not include works that remain
-   separable from, or merely link (or bind by name) to the interfaces of,
-   the Work and Derivative Works thereof.
-
-   "Contribution" shall mean any work of authorship, including
-   the original version of the Work and any modifications or additions
-   to that Work or Derivative Works thereof, that is intentionally
-   submitted to Licensor for inclusion in the Work by the copyright owner
-   or by an individual or Legal Entity authorized to submit on behalf of
-   the copyright owner. For the purposes of this definition, "submitted"
-   means any form of electronic, verbal, or written communication sent
-   to the Licensor or its representatives, including but not limited to
-   communication on electronic mailing lists, source code control systems,
-   and issue tracking systems that are managed by, or on behalf of, the
-   Licensor for the purpose of discussing and improving the Work, but
-   excluding communication that is conspicuously marked or otherwise
-   designated in writing by the copyright owner as "Not a Contribution."
-
-   "Contributor" shall mean Licensor and any individual or Legal Entity
-   on behalf of whom a Contribution has been received by Licensor and
-   subsequently incorporated within the Work.
-
-2. Grant of Copyright License. Subject to the terms and conditions of
-   this License, each Contributor hereby grants to You a perpetual,
-   worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-   copyright license to reproduce, prepare Derivative Works of,
-   publicly display, publicly perform, sublicense, and distribute the
-   Work and such Derivative Works in Source or Object form.
-
-3. Grant of Patent License. Subject to the terms and conditions of
-   this License, each Contributor hereby grants to You a perpetual,
-   worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-   (except as stated in this section) patent license to make, have made,
-   use, offer to sell, sell, import, and otherwise transfer the Work,
-   where such license applies only to those patent claims licensable
-   by such Contributor that are necessarily infringed by their
-   Contribution(s) alone or by combination of their Contribution(s)
-   with the Work to which such Contribution(s) was submitted. If You
-   institute patent litigation against any entity (including a
-   cross-claim or counterclaim in a lawsuit) alleging that the Work
-   or a Contribution incorporated within the Work constitutes direct
-   or contributory patent infringement, then any patent licenses
-   granted to You under this License for that Work shall terminate
-   as of the date such litigation is filed.
-
-4. Redistribution. You may reproduce and distribute copies of the
-   Work or Derivative Works thereof in any medium, with or without
-   modifications, and in Source or Object form, provided that You
-   meet the following conditions:
-
-   (a) You must give any other recipients of the Work or
-       Derivative Works a copy of this License; and
-
-   (b) You must cause any modified files to carry prominent notices
-       stating that You changed the files; and
-
-   (c) You must retain, in the Source form of any Derivative Works
-       that You distribute, all copyright, patent, trademark, and
-       attribution notices from the Source form of the Work,
-       excluding those notices that do not pertain to any part of
-       the Derivative Works; and
-
-   (d) If the Work includes a "NOTICE" text file as part of its
-       distribution, then any Derivative Works that You distribute must
-       include a readable copy of the attribution notices contained
-       within such NOTICE file, excluding those notices that do not
-       pertain to any part of the Derivative Works, in at least one
-       of the following places: within a NOTICE text file distributed
-       as part of the Derivative Works; within the Source form or
-       documentation, if provided along with the Derivative Works; or,
-       within a display generated by the Derivative Works, if and
-       wherever such third-party notices normally appear. The contents
-       of the NOTICE file are for informational purposes only and
-       do not modify the License. You may add Your own attribution
-       notices within Derivative Works that You distribute, alongside
-       or as an addendum to the NOTICE text from the Work, provided
-       that such additional attribution notices cannot be construed
-       as modifying the License.
-
-   You may add Your own copyright statement to Your modifications and
-   may provide additional or different license terms and conditions
-   for use, reproduction, or distribution of Your modifications, or
-   for any such Derivative Works as a whole, provided Your use,
-   reproduction, and distribution of the Work otherwise complies with
-   the conditions stated in this License.
-
-5. Submission of Contributions. Unless You explicitly state otherwise,
-   any Contribution intentionally submitted for inclusion in the Work
-   by You to the Licensor shall be under the terms and conditions of
-   this License, without any additional terms or conditions.
-   Notwithstanding the above, nothing herein shall supersede or modify
-   the terms of any separate license agreement you may have executed
-   with Licensor regarding such Contributions.
-
-6. Trademarks. This License does not grant permission to use the trade
-   names, trademarks, service marks, or product names of the Licensor,
-   except as required for reasonable and customary use in describing the
-   origin of the Work and reproducing the content of the NOTICE file.
-
-7. Disclaimer of Warranty. Unless required by applicable law or
-   agreed to in writing, Licensor provides the Work (and each
-   Contributor provides its Contributions) on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-   implied, including, without limitation, any warranties or conditions
-   of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-   PARTICULAR PURPOSE. You are solely responsible for determining the
-   appropriateness of using or redistributing the Work and assume any
-   risks associated with Your exercise of permissions under this License.
-
-8. Limitation of Liability. In no event and under no legal theory,
-   whether in tort (including negligence), contract, or otherwise,
-   unless required by applicable law (such as deliberate and grossly
-   negligent acts) or agreed to in writing, shall any Contributor be
-   liable to You for damages, including any direct, indirect, special,
-   incidental, or consequential damages of any character arising as a
-   result of this License or out of the use or inability to use the
-   Work (including but not limited to damages for loss of goodwill,
-   work stoppage, computer failure or malfunction, or any and all
-   other commercial damages or losses), even if such Contributor
-   has been advised of the possibility of such damages.
-
-9. Accepting Warranty or Additional Liability. While redistributing
-   the Work or Derivative Works thereof, You may choose to offer,
-   and charge a fee for, acceptance of support, warranty, indemnity,
-   or other liability obligations and/or rights consistent with this
-   License. However, in accepting such obligations, You may act only
-   on Your own behalf and on Your sole responsibility, not on behalf
-   of any other Contributor, and only if You agree to indemnify,
-   defend, and hold each Contributor harmless for any liability
-   incurred by, or claims asserted against, such Contributor by reason
-   of your accepting any such warranty or additional liability.
-
-END OF TERMS AND CONDITIONS
-
-APPENDIX: How to apply the Apache License to your work.
-
-   To apply the Apache License to your work, attach the following
-   boilerplate notice, with the fields enclosed by brackets "[]"
-   replaced with your own identifying information. (Don't include
-   the brackets!)  The text should be enclosed in the appropriate
-   comment syntax for the file format. We also recommend that a
-   file or class name and description of purpose be included on the
-   same "printed page" as the copyright notice for easier
-   identification within third-party archives.
-
-Copyright [yyyy] [name of copyright owner]
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+SÉPTIMA. Disposiciónes Generales. 
+7.1 Caso Fortuito y Fuerza Mayor. Ninguna de las Partes será responsable por el retraso o la falta de cumplimiento de las obligaciones respectivamente a su cargo derivadas del presente Contrato que se deriven por caso fortuito o fuerza mayor, y en tal caso, el plazo para el cumplimiento de la respectiva obligación se considerará extendido por un periodo igual a la duración de las condiciones que impiden el cumplimiento.
+7.2 Legislación y jurisdicción aplicable. Para todo lo relacionado con la interpretación, cumplimiento y ejecución del presente Contrato, las Partes se someten expresamente a las leyes de los Estados Unidos Mexicanos y a la jurisdicción de los tribunales competentes de la Ciudad de México, renunciando por tanto a otra jurisdicción o fuero que pudiera corresponderles por razón de su domicilio presente o futuro o por cualquier otra causa.
+7.3. Acuerdo Total. Las Partes acuerdan que el presente Contrato, sus anexos y cualquier otro documento que pudiera estar relacionado con el Contrato, contienen la totalidad de los acuerdos alcanzados entre las mismas respecto de la prestación de los Servicios, por lo que cualquier comunicación verbal o escrita, incluyendo de forma enunciativa más no limitativa, los correos electrónicos, contratos, convenios o entendimientos celebrados o acuerdos alcanzados por o entre ellas con anterioridad a este Contrato, quedará sin efecto y no tendrá validez alguna. El Contrato únicamente podrá ser modificado mediante acuerdo por escrito, debidamente firmado por las Partes.
+7.4 Notificaciones. Para cualquier notificación o aviso que tenga relación con el presente Contrato, el cliente podrá contactar al Licenciatario mediante el correo electrónico legal@motti.com
