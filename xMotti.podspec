@@ -2,13 +2,13 @@
 Pod::Spec.new do |s|
 
   s.name        	= "xMotti"
-  s.version      	= "0.1.3"
+  s.version      	= "1.0.0"
   s.summary      	= "xMotti SDK for iOS."
   s.description  	= <<-DESC
   					  iOS SDK for the xMotti platform.
   				      DESC
 
-  s.homepage     	= "https://x.motti.io/"
+  s.homepage     	= "https://xretail.motti.com"
   s.license      	= { :type => 'Motti Licence', :file => 'LICENSE' }
   s.author          = { "Motti" => "miguel@motti.com" }
 
