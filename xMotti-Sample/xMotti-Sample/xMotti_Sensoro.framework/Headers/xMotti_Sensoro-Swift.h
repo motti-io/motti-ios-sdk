@@ -163,10 +163,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # define SWIFT_DEPRECATED_OBJC(Msg) SWIFT_DEPRECATED_MSG(Msg)
 #endif
 #if __has_feature(modules)
-@import CoreBluetooth;
-@import Foundation;
 @import ObjectiveC;
 #endif
+
+#import <xMotti_Sensoro/xMotti_Sensoro.h>
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
 #pragma clang diagnostic ignored "-Wduplicate-method-arg"
@@ -179,18 +179,17 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_attribute(external_source_symbol)
 # pragma push_macro("any")
 # undef any
-# pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="xMotti",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
+# pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="xMotti_Sensoro",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
 # pragma pop_macro("any")
 #endif
 
+@class SBKBeaconManager;
+@class SBKBeacon;
 
-
-@class CBCentralManager;
-
-SWIFT_CLASS("_TtC6xMotti6xMotti")
-@interface xMotti : NSObject <CBCentralManagerDelegate>
+SWIFT_CLASS("_TtC14xMotti_Sensoro14xMotti_Sensoro")
+@interface xMotti_Sensoro : NSObject <SBKBeaconDelegate, SBKBeaconManagerDelegate>
+- (void)beaconManager:(SBKBeaconManager * _Null_unspecified)beaconManager didRangeNewBeacon:(SBKBeacon * _Null_unspecified)beacon;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (void)centralManagerDidUpdateState:(CBCentralManager * _Nonnull)central;
 @end
 
 #if __has_attribute(external_source_symbol)

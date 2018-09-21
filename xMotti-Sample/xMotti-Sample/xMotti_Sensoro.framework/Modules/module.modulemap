@@ -1,0 +1,11 @@
+framework module xMotti_Sensoro {
+  umbrella header "xMotti_Sensoro.h"
+
+  export *
+  module * { export * }
+}
+
+module xMotti_Sensoro.Swift {
+    header "xMotti_Sensoro-Swift.h"
+    requires objc
+}

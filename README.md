@@ -12,6 +12,7 @@ Motti SDK is an library written in Swift for proximity triggered based content. 
 ## Integration
 
 **CocoaPods**
+
 You can use [CocoaPods](http://cocoapods.org/) to install `xMotti` by adding it to your `Podfile`:
 ```ruby
 platform :ios, '10.0'
@@ -23,6 +24,7 @@ end
 ```
 
 **Manually**
+
 Download `xMotti.framework` and drag it into your project.
 
 ## Configuration
