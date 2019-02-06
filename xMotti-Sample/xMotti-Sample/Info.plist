@@ -26,13 +26,13 @@
 		<true/>
 	</dict>
 	<key>NSBluetoothPeripheralUsageDescription</key>
-	<string>Usaremos tu ubicación para presentarte contenidos exclusivos a través de beacons.</string>
+	<string>We require access to your peripheral devices.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Usaremos tu ubicación para presentarte contenidos exclusivos.</string>
+	<string>We require your location for exclusive content.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Usaremos tu ubicación para presentarte contenidos exclusivos.</string>
+	<string>We require your location for exclusive content.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Usaremos tu ubicación para presentarte contenidos exclusivos.</string>
+	<string>We require your location for exclusive content.</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>bluetooth-central</string>
