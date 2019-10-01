@@ -33,6 +33,8 @@
 	<string>We require your location for exclusive content.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>We require your location for exclusive content.</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>We require connect to nearby devices to update beacon configs.</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>bluetooth-central</string>
